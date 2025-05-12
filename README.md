@@ -6,7 +6,7 @@
 <body>
   <h1>VIDEO DE MUESTRA</h1>
 
-<video width="360" height="640" controls
+
 
 <source src="https://youtu.be/9wf0k9nGs3k" type="video/mp4">
 
